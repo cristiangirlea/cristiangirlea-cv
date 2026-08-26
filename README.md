@@ -1,4 +1,4 @@
-# Cristian Gîrlea — CV website
+# Cristian Gîrlea | CV website
 
 Public source for [cristiangirlea.ro](https://cristiangirlea.ro), a static portfolio and CV website.
 
