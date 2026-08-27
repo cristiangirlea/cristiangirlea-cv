@@ -11,7 +11,7 @@ const skills = [
   ["Languages", "Go · Python · TypeScript · JavaScript"],
   ["Backend", "Node.js · FastAPI · NestJS · REST · Protobuf"],
   ["Frontend", "React · Next.js · Vue · Angular"],
-  ["Cloud & Platform", "Kubernetes · Docker · AWS EKS · Azure AKS"],
+  ["Cloud & Platform", "Kubernetes · Docker · AWS EKS · Azure AKS · Google Cloud Platform"],
   ["Delivery", "GitHub Actions · Jenkins · IaC · CI/CD"],
   ["Observability", "OpenTelemetry · Prometheus · Grafana · Sentry"],
   ["Data & Messaging", "PostgreSQL · MySQL · MongoDB · Redis · Kafka · RabbitMQ"],
