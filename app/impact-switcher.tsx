@@ -3,7 +3,7 @@
 import { useState } from 'react';
 
 const paths = [
-  { label: 'Scale', title: 'Ship systems that stay fast under pressure.', detail: 'Distributed Go, Python and TypeScript services built for cloud-native, Kubernetes-backed environments.', proof: '15+ services deployed' },
+  { label: 'Scale', title: 'Ship systems that stay fast under pressure.', detail: 'Distributed Go, Python and TypeScript services built for cloud-native, Kubernetes-backed environments.', proof: '15+ services in one fintech program' },
   { label: 'Modernize', title: 'Turn operational drag into measurable progress.', detail: 'Pragmatic modernization of legacy services, workflows and delivery pipelines without losing production stability.', proof: 'Up to 10x performance uplift' },
   { label: 'Lead', title: 'Give teams clarity from architecture to production.', detail: 'Hands-on technical leadership, calm incident response and delivery practices that teams can understand and own.', proof: '13+ years hands-on' },
 ];

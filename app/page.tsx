@@ -37,7 +37,7 @@ export default function Home() {
     <section className="intro shell" id="about">
       <div className="sectionLabel">01 / Profile</div>
       <div className="introCopy"><h2>I build the systems<br/>behind the experience.</h2><p>I’m Cristian Gîrlea, an engineer and technical lead with 13+ years across fintech, AI, cybersecurity, healthtech and enterprise platforms. My focus is clear: production-grade services, calm incident response, and teams that understand the systems they operate.</p>
-        <div className="stats"><div><strong>10×</strong><span>Performance uplift</span></div><div><strong>15+</strong><span>Services deployed</span></div><div><strong>8 yrs</strong><span>CI/CD delivery</span></div></div>
+        <div className="stats"><div><strong>10×</strong><span>Performance uplift</span></div><div><strong>20×</strong><span>Workflow throughput</span></div><div><strong>8 yrs</strong><span>CI/CD delivery</span></div></div>
       </div>
     </section>
     <section className="work" id="experience"><div className="shell">
